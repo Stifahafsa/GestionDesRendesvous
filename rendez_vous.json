@@ -1,0 +1,28 @@
+[
+    {
+        "patient": {
+            "nom": "stf",
+            "prenom": "hafsa"
+        },
+        "medecin": {
+            "nom": "alami",
+            "prenom": "ahmed"
+        },
+        "date": "18/03/2024",
+        "heure": "10:00",
+        "statut": "Termin\u00e9"
+    },
+    {
+        "patient": {
+            "nom": "stf",
+            "prenom": "hafsa"
+        },
+        "medecin": {
+            "nom": "alami",
+            "prenom": "ahmed"
+        },
+        "date": "18/03/2024",
+        "heure": "12:00",
+        "statut": "En attente"
+    }
+]
